@@ -1,0 +1,50 @@
+@CHARSET "UTF-8";
+* {
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	           outline: none;
+}
+ 
+ h3{
+ color: #000000;
+ text-align: center;
+ }
+ 
+.confirmAccount-form {
+	margin: 20% auto;
+	max-width: 586px;
+}
+
+
+.confirmAccount-form > section {
+	text-align: center;
+	margin-top: 15px;
+}
+
+.confirmAccount-form > section:first-child {
+	margin-bottom: 42px;
+}
+
+
+form[role=confirmAccount] {
+	font: 18px/2.2em Lucida Console, serif;
+	color: #400000;
+	background: #c0c0c0;
+	border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	padding: 21px 38px 35px 38px;
+	margin-bottom: 25px;
+	
+	-webkit-box-shadow: 0 0 3px 0 rgba(50, 50, 50, .4);
+	   -moz-box-shadow: 0 0 3px 0 rgba(50, 50, 50, .4);
+	        box-shadow: 0 0 3px 0 rgba(50, 50, 50, .4);
+}	
+
+
+.alignButton{
+	text-align: center;
+}
+
+

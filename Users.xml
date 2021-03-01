@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+  <users>
+  <user id="0" lastName="Chihaia" firstName="Catalin" birthdate="16.02.1994" address="Strada Brasov Nr. 5" telephone="075545343" email="catalin.chihaia@gmail.com" userName="cata" password="catacata" type="Candidat" question="oneQ" answer="Alvin"/>
+  <user id="1" lastName="adda" firstName="adda" birthdate="adda" address="adda" telephone="adda" email="adda@a.a" userName="adda" password="addaadda" type="Candidat" question="oneQ" answer="adda"/>
+  <user id="2" lastName="aaaaaaaaaaaaaaaa" firstName="aabbbbbbbbbbbbb" birthdate="ccccccccccccc" address="ddddddddddddd" telephone="6343343" email="sadaf@sdsdf.asd" userName="aaaaaaaaaaaaaaa" password="aaaaaaaaaaaaaaa" type="Candidat" question="oneQ" answer="aaaaaaaaaaaaaaa"/>
+  </users>
+  <lastId value="2"/>
+  
+</data>
